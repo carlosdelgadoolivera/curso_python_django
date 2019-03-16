@@ -22,6 +22,9 @@ git add . agrera todo desde nuestra raiz
 
 guardar cambios
 git commit -m "first commit mensaje"
+
+para ver listado de commit
+git log --oneline
 ## Instalar Django
 ## Configurar proyecto en Django
 ## Crear Modelos
